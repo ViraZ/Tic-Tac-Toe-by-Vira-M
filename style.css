@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(283deg, #71717d, #97aee8, #ced7ee, #9ff3c3, #24ac0d, #2d2b83);
+    background-size: 1200% 1200%;
+}
+
+#myGame {
+    padding: inherit;
+    display: block;
+}
+
+table {
+    border: 2px;
+    padding-top: 20px;
+}
+
+
+
+td {
+    background-color:  #2B4F63;
+    border: 3px solid #0A3146;
+    -webkit-box-shadow: 41px 30px 28px 0px rgb(126, 165, 162);
+    -moz-box-shadow: 41px 30px 28px 0px rgb(126, 165, 162);
+    box-shadow: 41px 30px 28px 0px rgb(126, 165, 162);
+    font-size: 80px;
+    color: #7EA5A2;
+    border-radius: 15px 15px 15px 15px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
